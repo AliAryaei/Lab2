@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Task5",
+			"Path": "C:\\Users\\aliari-1-local\\Documents\\GitHub\\Unreal\\Lab2\\Task5\\Source\\Task5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Task5Editor",
+			"Path": "C:\\Users\\aliari-1-local\\Documents\\GitHub\\Unreal\\Lab2\\Task5\\Source\\Task5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

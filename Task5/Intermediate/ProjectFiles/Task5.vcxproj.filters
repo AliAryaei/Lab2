@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Task5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{3B9ECC28-4F59-49AB-A102-BA770E2163D1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Task5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Task5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5ABD55FE-75A1-472E-BC34-F31F1078B14B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Task5">
+      <UniqueIdentifier>{E2137D68-EB43-4317-A16F-AB560C298324}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Task5\MyThirdPersonChar.cpp">
+      <Filter>Source\Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Task5\MyThirdPersonChar.h">
+      <Filter>Source\Task5</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Task5\Task5.Build.cs">
+      <Filter>Source\Task5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Task5\Task5.cpp">
+      <Filter>Source\Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Task5\Task5.h">
+      <Filter>Source\Task5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Task5\Task5GameModeBase.cpp">
+      <Filter>Source\Task5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Task5\Task5GameModeBase.h">
+      <Filter>Source\Task5</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
