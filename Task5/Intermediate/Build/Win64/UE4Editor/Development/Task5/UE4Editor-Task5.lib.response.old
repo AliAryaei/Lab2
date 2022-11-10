@@ -7,8 +7,10 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\MyThirdPersonChar.cpp.obj"
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Task5.cpp.obj"
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Task5GameModeBase.cpp.obj"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\MyThirdPersonChar.gen.cpp.obj"
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Task5.init.gen.cpp.obj"
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Task5GameModeBase.gen.cpp.obj"
 "C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Default.rc2.res"

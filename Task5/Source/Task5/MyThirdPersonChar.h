@@ -4,6 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "Components/InputComponent.h"
+#include "Kismet/KismetMathLibrary.h"
+#include "GameFramework/Controller.h"
 #include "MyThirdPersonChar.generated.h"
 
 UCLASS()
@@ -20,6 +23,7 @@ protected:
 	virtual void BeginPlay() override;
 
 	void MoveRight(float Value);
+	void MoveForward(float Value);
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;

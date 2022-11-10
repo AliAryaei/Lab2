@@ -1,9 +1,9 @@
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Source\Task5/Task5GameModeBase.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Source\Task5/Task5GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5\Task5GameModeBase.generated.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5\Task5GameModeBase.generated.h

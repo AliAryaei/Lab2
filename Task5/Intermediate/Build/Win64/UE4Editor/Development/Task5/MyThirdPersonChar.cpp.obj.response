@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5
-/I C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Source
+/I C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5
+/I C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Source\Task5\MyThirdPersonChar.cpp"
-/FI"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h"
-/Fo"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\MyThirdPersonChar.cpp.obj"
+/FI"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\Task5Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Source\Task5\MyThirdPersonChar.cpp"
+/FI"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h"
+/Fo"C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\MyThirdPersonChar.cpp.obj"
 /TP
 /GR-
 /W4

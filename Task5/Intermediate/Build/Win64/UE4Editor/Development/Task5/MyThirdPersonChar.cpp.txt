@@ -1,9 +1,12 @@
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Source\Task5\MyThirdPersonChar.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Development\Task5\Definitions.Task5.h
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Source\Task5\MyThirdPersonChar.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
-C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5\MyThirdPersonChar.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl
+C:\Users\aliari-1-local\Documents\GitHub\Unreal\Lab2\GitThing\Task5\Intermediate\Build\Win64\UE4Editor\Inc\Task5\MyThirdPersonChar.generated.h

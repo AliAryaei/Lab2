@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define TASK5_MyThirdPersonChar_generated_h
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_SPARSE_DATA
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_RPC_WRAPPERS
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_RPC_WRAPPERS_NO_PURE_DECLS
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_INCLASS_NO_PURE_DECLS \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_SPARSE_DATA
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_RPC_WRAPPERS
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_RPC_WRAPPERS_NO_PURE_DECLS
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAMyThirdPersonChar(); \
 	friend struct Z_Construct_UClass_AMyThirdPersonChar_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AMyThirdPersonChar)
 
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_INCLASS \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_INCLASS \
 private: \
 	static void StaticRegisterNativesAMyThirdPersonChar(); \
 	friend struct Z_Construct_UClass_AMyThirdPersonChar_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AMyThirdPersonChar)
 
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_STANDARD_CONSTRUCTORS \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AMyThirdPersonChar(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AMyThirdPersonChar) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_ENHANCED_CONSTRUCTORS \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AMyThirdPersonChar(AMyThirdPersonChar&&); \
@@ -58,28 +58,28 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AMyThirdPersonChar)
 
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_PRIVATE_PROPERTY_OFFSET
-#define Task5_Source_Task5_MyThirdPersonChar_h_9_PROLOG
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_GENERATED_BODY_LEGACY \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_PRIVATE_PROPERTY_OFFSET
+#define Task5_Source_Task5_MyThirdPersonChar_h_12_PROLOG
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_PRIVATE_PROPERTY_OFFSET \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_SPARSE_DATA \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_RPC_WRAPPERS \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_INCLASS \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_STANDARD_CONSTRUCTORS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_PRIVATE_PROPERTY_OFFSET \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_SPARSE_DATA \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_RPC_WRAPPERS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_INCLASS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Task5_Source_Task5_MyThirdPersonChar_h_12_GENERATED_BODY \
+#define Task5_Source_Task5_MyThirdPersonChar_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_PRIVATE_PROPERTY_OFFSET \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_SPARSE_DATA \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_INCLASS_NO_PURE_DECLS \
-	Task5_Source_Task5_MyThirdPersonChar_h_12_ENHANCED_CONSTRUCTORS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_PRIVATE_PROPERTY_OFFSET \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_SPARSE_DATA \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_INCLASS_NO_PURE_DECLS \
+	Task5_Source_Task5_MyThirdPersonChar_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
